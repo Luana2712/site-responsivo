@@ -5,3 +5,26 @@
     align-items: center;
 
 }
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.cabecalho-titulo{
+display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
