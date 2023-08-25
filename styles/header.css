@@ -33,7 +33,7 @@ display: none;
 
 }
 
-.container-botao:checked-.container-menu{
+.container-botao:checked~.container-menu{
     display: block;
 }
 
