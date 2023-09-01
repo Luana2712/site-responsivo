@@ -47,6 +47,7 @@ display: none;
 .menu-link {
 text-transform: uppercase;
 text-decoration: none;
+color:var(--azul-degrade);
 }
 
 
