@@ -15,4 +15,11 @@ font-weight: 700;
      margin: 1em 0;
 }
 
+.banner-pesquisa {
+background-color: transparente;
+border:1px solid var(--branco);
+}
+
+
+
 
