@@ -16,8 +16,10 @@ font-weight: 700;
 }
 
 .banner-pesquisa {
-background-color: transparente;
-border:1px solid var(--branco);
+  background-color: transparente;
+  border:1px solid var(--branco);
+  color:var(--branco);
+  border-radius:24px;
 }
 
 
