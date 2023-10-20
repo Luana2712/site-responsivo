@@ -8,8 +8,13 @@
     padding: 1em 0 0.5em 0;
     }
 
-
     .swiper-button-prev, .swiper-button-next {
-display: none;
+     display: none;
 
     }
+
+    .Swiper-slide {
+        width: 100%;
+    }
+
+
